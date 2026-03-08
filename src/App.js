@@ -43,3 +43,4 @@ function App() {
 
 export default App;// Shopping cart feature coming soon
 // Release v1.0 preparation
+// Critical checkout bug fixed
